@@ -22,3 +22,7 @@ This project demonstrates two autonomous driving applications — **Obstacle Avo
 ```bash
 git clone https://github.com/PhanindratejaThammi/Autonomous-Obstacle-Avoidance-and-Parking-using-Model-Predictive-Control-MPC-.git
 cd Autonomous-Obstacle-Avoidance-and-Parking-using-Model-Predictive-Control-MPC-
+
+---
+### 1. Clone the Repository
+---
