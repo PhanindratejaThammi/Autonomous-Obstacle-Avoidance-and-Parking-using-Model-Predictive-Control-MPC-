@@ -8,7 +8,7 @@ This project demonstrates two autonomous driving applications — **Obstacle Avo
 
 ## 🗂️ Project Structure
 
-| File Name                   | Description                                               |
+| File Name                   | Description                                              |
 |----------------------------|-----------------------------------------------------------|
 | `sim2d.py`                 | Simulation environment and visualization engine           |
 | `mpc_obstacle_avoidance.py`| Implements MPC for autonomous obstacle avoidance          |
@@ -22,5 +22,4 @@ This project demonstrates two autonomous driving applications — **Obstacle Avo
 ```bash
 git clone https://github.com/PhanindratejaThammi/Autonomous-Obstacle-Avoidance-and-Parking-using-Model-Predictive-Control-MPC-.git
 cd Autonomous-Obstacle-Avoidance-and-Parking-using-Model-Predictive-Control-MPC-
-
 
