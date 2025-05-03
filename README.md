@@ -23,22 +23,3 @@ This project demonstrates two autonomous driving applications — **Obstacle Avo
 git clone https://github.com/PhanindratejaThammi/Autonomous-Obstacle-Avoidance-and-Parking-using-Model-Predictive-Control-MPC-.git
 cd Autonomous-Obstacle-Avoidance-and-Parking-using-Model-Predictive-Control-MPC-
 
-### 1. Install Python
-
-Ensure Python 3.7 or higher is installed.
-
-🔗 Download: [https://www.python.org/downloads/](https://www.python.org/downloads/)
-
----
-
-### 2. Install Required Libraries
-
-This project requires the following Python packages:
-
-- `numpy`
-- `matplotlib`
-
-Install them using pip:
-
-```bash
-pip install numpy matplotlib
